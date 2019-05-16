@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bcfeb39cc403e039014513ce781c3cf1",
+    "revision": "3d070b0747098f0757a4afc35285262e",
     "url": "/AmazingBox/index.html"
   },
   {
