@@ -20,7 +20,7 @@ const LoginDone = () => {
   }, []);
 
   if (token) {
-    return <Redirect to="/" />;
+    return <Redirect to={process.env.PUBLIC_URL} />;
   }
 
   return (
