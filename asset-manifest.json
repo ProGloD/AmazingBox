@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AmazingBox/static/css/main.3e490b9b.chunk.css",
-    "main.js": "/AmazingBox/static/js/main.5c89707b.chunk.js",
-    "main.js.map": "/AmazingBox/static/js/main.5c89707b.chunk.js.map",
+    "main.js": "/AmazingBox/static/js/main.a153c772.chunk.js",
+    "main.js.map": "/AmazingBox/static/js/main.a153c772.chunk.js.map",
     "runtime~main.js": "/AmazingBox/static/js/runtime~main.4c6932d9.js",
     "runtime~main.js.map": "/AmazingBox/static/js/runtime~main.4c6932d9.js.map",
     "static/js/2.4f374566.chunk.js": "/AmazingBox/static/js/2.4f374566.chunk.js",
     "static/js/2.4f374566.chunk.js.map": "/AmazingBox/static/js/2.4f374566.chunk.js.map",
     "index.html": "/AmazingBox/index.html",
-    "precache-manifest.820f3834fe3957571196b54aa0832553.js": "/AmazingBox/precache-manifest.820f3834fe3957571196b54aa0832553.js",
+    "precache-manifest.58dba6b6260b54d474a606dadad5bc44.js": "/AmazingBox/precache-manifest.58dba6b6260b54d474a606dadad5bc44.js",
     "service-worker.js": "/AmazingBox/service-worker.js",
     "static/css/main.3e490b9b.chunk.css.map": "/AmazingBox/static/css/main.3e490b9b.chunk.css.map"
   }
