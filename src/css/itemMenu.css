@@ -1,0 +1,45 @@
+.itemMenu {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  top: 1px;
+}
+
+.itemMenu-button {
+  background-color: transparent;
+  padding: 0px;
+  border: none;
+  outline: none;
+  width: 60px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.opensecond {
+  margin-right: -5px;
+}
+
+.openfirst {
+  animation: popup 0.2s ease;
+}
+
+.opensecond {
+  animation: popup 0.6s ease;
+}
+
+.openthird {
+  animation: popup 1s ease;
+}
+
+.openfourth {
+  animation: popup 1.4s ease;
+}
+
+@keyframes popup {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
