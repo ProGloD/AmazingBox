@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6cdefe9374d4ea59a911e1bf8ebc43e",
+    "revision": "aa2b128b1287181fcf8b31e5515fc658",
     "url": "/AmazingBox/index.html"
   },
   {
-    "revision": "426ba703c98c7a8b33a3",
+    "revision": "28c5b274cd34fa0f66ae",
     "url": "/AmazingBox/static/css/main.3e490b9b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AmazingBox/static/js/2.4f374566.chunk.js"
   },
   {
-    "revision": "426ba703c98c7a8b33a3",
-    "url": "/AmazingBox/static/js/main.8f3d3398.chunk.js"
+    "revision": "28c5b274cd34fa0f66ae",
+    "url": "/AmazingBox/static/js/main.bd3b3675.chunk.js"
   },
   {
     "revision": "176ea492c1c3cfcb5feb",
