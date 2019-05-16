@@ -10,7 +10,9 @@ export function login() {
   return new Dropbox.Dropbox({
     fetch,
     clientId: key
-  }).getAuthenticationUrl("https://proglod.github.io/AmazingBox/auth-done");
+  }).getAuthenticationUrl(
+    "https://proglod.github.io/AmazingBox/index.html/auth-done"
+  );
 }
 
 export function logout() {
